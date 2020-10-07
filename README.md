@@ -10,4 +10,4 @@
 
 ## Visuals
 
-[![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-img.jpg)](#)
+[![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-img0.jpg)](#)
