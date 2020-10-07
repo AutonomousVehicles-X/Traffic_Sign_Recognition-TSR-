@@ -8,4 +8,4 @@
 
 [![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-1000x491.png)](#)
 
-[![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TLD.jpg)](#)
+[![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-img.jpg)](#)
