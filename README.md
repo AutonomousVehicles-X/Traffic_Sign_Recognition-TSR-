@@ -8,4 +8,6 @@
 
 [![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-1000x491.png)](#)
 
+## Visuals
+
 [![demo](https://github.com/kumarharikesh/Hello-World/blob/master/TSR-img.jpg)](#)
